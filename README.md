@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Ivan KayukOv
-- 👀 I’m learning python and i want to be a backend developer
-- 📫 If you want text me -> @manfrommother (telegram)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611kustormtnwdnr8vgrz6x78t0pnlcws97atzjqjx4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
 
