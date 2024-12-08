@@ -10,7 +10,7 @@
 
 <h1>
     Hello world!
-    <img src="https://media.giphy.com/media/1wqYonEBtues7jlngs/giphy.gif?cid=790b7611vcyo6eejsyvn8od6j4mndky0i2bzjm4ilydhx1fb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px"/>
+    <img src="https://media.giphy.com/media/JsEDe5fTepBIDnaZKT/giphy.gif" width="100px"/>
   </h1>
 </div>
 
