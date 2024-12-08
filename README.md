@@ -18,4 +18,18 @@
   <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=790b7611666glnhjoiybjck4s56w6suoqc77bepvyvxj255h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+
+I'm a Backend Developer from Russia
+
+- :robot: Currently working as a freelancer developing Telegram bots
+- :computer: Also working on my personal projects
+- :file_folder: In my repositories you can find test assignments that I found on the Internet
+- :mag: Actively looking for job opportunities
+- :page_facing_up: My resume on Habr: <a href="https://career.habr.com/manfrommother">
+    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+  </a>
+
 
