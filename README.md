@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=790b7611666glnhjoiybjck4s56w6suoqc77bepvyvxj255h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3IzaHIxazczNml2c2h0dW5uNjlhYzFlMDlodzgzYnFvaXp2MnFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
