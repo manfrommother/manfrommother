@@ -27,7 +27,6 @@ I'm a Backend Developer from Russia
 - :robot: Currently working as a freelancer developing Telegram bots
 - :computer: Also working on my personal projects
 - :file_folder: In my repositories you can find test assignments that I found on the Internet
-- :mag: Actively looking for job opportunities
 - :page_facing_up: My resume on Habr: <a href="https://career.habr.com/manfrommother">
     <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
