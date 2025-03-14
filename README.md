@@ -23,11 +23,6 @@
 ### :man_technologist: About Me :
 
 I'm a Backend Developer from Russia
-
-- :robot: Currently working as a freelancer developing Telegram bots
-- :computer: Also working on my personal projects
-- :file_folder: In my repositories you can find test assignments that I found on the Internet
-
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
